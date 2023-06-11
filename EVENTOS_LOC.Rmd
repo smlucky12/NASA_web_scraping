@@ -1,0 +1,52 @@
+---
+title: "EVENTOS_NASA"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+    theme: cosmo
+---
+
+```{r}
+#install.packages("flexdashboard")
+#install.packages("readr")
+#install.packages("dplyr")
+#install.packages("leaflet")
+#install.packages("crosstalk")
+#install.packages("DT")
+```
+
+
+
+
+
+```{r librerias, include=F}
+library(flexdashboard)
+library(readr)
+library(dplyr)
+library(leaflet)
+#library(crosstalk)
+library(DT)
+```
+
+```{r dataset}
+datos <- read_csv("datoseventos.csv")
+```
+# TABLA
+
+```{r}
+datos %>%
+  DT::datatable()
+```
+
+# MAPA
+
+```{r}
+datos %>% 
+  leaflet() %>% 
+  addTiles() %>% 
+  addMarkers(lng   = ~LONGITUD,
+             lat   = ~LATITUD,
+             label = ~TITULO)
+```
+
