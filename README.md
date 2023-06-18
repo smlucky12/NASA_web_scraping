@@ -15,7 +15,6 @@ EONET es un servicio web que rastrea y proporciona metadatos actualizados de eve
 3. Mars Rover Photos:
 La misión Mars Rover de la NASA ha proporcionado una gran cantidad de imágenes fascinantes del paisaje marciano. La API de Mars Rover Photos nos permite acceder a estas imágenes capturadas por los rovers en Marte y explorar la superficie del planeta rojo. Mediante el web scraping, podremos descargar estas imágenes y realizar análisis geológicos y visuales del terreno marciano.
 
-En conclusion, en este trabajo de web scraping exploraremos las API de la NASA, específicamente APOD,EONET y Mars Rover Photos, para obtener datos e imágenes relevantes relacionadas con eventos naturales, astronomía y la superficie de Marte. Utilizando técnicas de extracción de datos, podremos acceder a información actualizada y realizar análisis significativos para aumentar nuestro conocimiento y apreciación del universo que nos rodea.
 
 
 ## <span style="color:red; font-family:'Bodoni MT Black';">INTEGRANTES</span>
