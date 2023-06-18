@@ -1,9 +1,7 @@
-<div style="display: flex;">
-  <img src="https://github.com/smlucky12/NASA_web_scraping/assets/107592025/53d49c4d-ee80-43a5-8d19-6ae0e1f17282" style="flex: 1; width: 50%;" />
-  <img src="https://github.com/smlucky12/NASA_web_scraping/assets/107592025/7e75ce18-45d3-40af-aebd-6454a0dae25b" style="flex: 1; width: 50%;" />
-</div>
+![image](https://github.com/smlucky12/NASA_web_scraping/assets/107592025/8b4aa6eb-355f-458a-869b-3e4ed0546bb0)
 
-# <div style="text-align: center;"><h1><span style="color:red; font-family:'Bodoni MT Black';">NASA </span><span style="color:red; font-family:'Bodoni MT Black';">API </span><span style="color:blue; font-family:'Bodoni MT Black';">web scraping</span></h1></div>
+
+# <span style="color:red; font-family:'Bodoni MT Black';">NASA </span><span style="color:red; font-family:'Bodoni MT Black';">API </span><span style="color:blue; font-family:'Bodoni MT Black';">web scraping</span>
 
 
 En este trabajo colaborativo, nos enfocaremos en tres APIs proporcionadas por la NASA: APOD (Astronomy Picture of the Day), EONET (Earth Observatory Natural Event Tracker) y Mars Rover Photos. Utilizando técnicas de web scraping, nos sumergiremos en el mundo de la NASA para descargar información relevante y realizar análisis significativos.
@@ -20,7 +18,7 @@ La misión Mars Rover de la NASA ha proporcionado una gran cantidad de imágenes
 En conclusion, en este trabajo de web scraping exploraremos las API de la NASA, específicamente APOD,EONET y Mars Rover Photos, para obtener datos e imágenes relevantes relacionadas con eventos naturales, astronomía y la superficie de Marte. Utilizando técnicas de extracción de datos, podremos acceder a información actualizada y realizar análisis significativos para aumentar nuestro conocimiento y apreciación del universo que nos rodea.
 
 
-## <div style="text-align: center;"><h1><span style="color:red; font-family:'Bodoni MT Black';">INTEGRANTES</span></h1></div>
+## <span style="color:red; font-family:'Bodoni MT Black';">INTEGRANTES</span>
 
 - Edgard Jesus Rojas Chavez -EdRoNo2501
 
